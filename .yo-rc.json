@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.18.0",
+    "sdksVersions": {},
+    "version": "1.22.1",
+    "libraryName": "leave-request",
+    "libraryId": "3d4560a3-a699-4c8f-a4e3-7785cde74696",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "leave-request",
+    "solutionShortDescription": "leave-request description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
